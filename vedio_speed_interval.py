@@ -93,11 +93,11 @@ if __name__ == "__main__":
     ensure_ffmpeg()
 
     # —— 用户参数区 —— #
-    input_path  = r"C:\Users\xijia\Desktop\DoingPlatform\D20250428_教创赛省赛决赛答辩\素材\封面电影\a01.mp4"
-    output_path = r"C:\Users\xijia\Desktop\DoingPlatform\D20250428_教创赛省赛决赛答辩\素材\封面电影\a02.mp4"
+    input_path  = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20_教改论文\D20250526_AI赋能在线教学创新成果大赛\A02申报书\视频解说素材\洛伦兹吸引子_1.mp4"
+    output_path = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20_教改论文\D20250526_AI赋能在线教学创新成果大赛\A02申报书\视频解说素材\洛伦兹吸引子_2speed.mp4"
     start_time  = "00:00"    # 加速开始时间
-    end_time    = "00:10"    # 加速结束时间
-    speed       = 2       # 倍速
+    end_time    = "00:50"    # 加速结束时间
+    speed       = 1.75       # 倍速
     # —————————————— #
 
     speed_up_segment(input_path, output_path, start_time, end_time, speed)

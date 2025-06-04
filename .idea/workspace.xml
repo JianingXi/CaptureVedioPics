@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d46ca179-c407-493d-8a09-03e632f75d2e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P01_capture_frame_and_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/P01_capture_frame_and_time.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/capture_interval_vedio.py" beforeDir="false" afterPath="$PROJECT_DIR$/capture_interval_vedio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vedio_speed_interval.py" beforeDir="false" afterPath="$PROJECT_DIR$/vedio_speed_interval.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.P01_capture_frame_and_time.executor&quot;: &quot;Run&quot;,
     &quot;Python.P03_capture_gif_and_times.executor&quot;: &quot;Run&quot;,
     &quot;Python.capture_frame_and_time.executor&quot;: &quot;Run&quot;,
     &quot;Python.capture_interval_gif.executor&quot;: &quot;Run&quot;,
@@ -101,6 +104,13 @@
       <workItem from="1747057906039" duration="1674000" />
       <workItem from="1747097018946" duration="13000" />
       <workItem from="1747986593474" duration="302000" />
+      <workItem from="1748877096272" duration="1045000" />
+      <workItem from="1748878398444" duration="259000" />
+      <workItem from="1748878678016" duration="19000" />
+      <workItem from="1748878960728" duration="52000" />
+      <workItem from="1748879332488" duration="794000" />
+      <workItem from="1748919384956" duration="5000" />
+      <workItem from="1748962587363" duration="16000" />
     </task>
     <servers />
   </component>
@@ -110,11 +120,12 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CaptureVedioPics$test.coverage" NAME="test 覆盖结果" MODIFIED="1744262291287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CaptureVedioPics$rotate_gif.coverage" NAME="rotate_gif 覆盖结果" MODIFIED="1746809956165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CaptureVedioPics$vedio_speed_interval.coverage" NAME="vedio_speed_interval 覆盖结果" MODIFIED="1747035470663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CaptureVedioPics$cut_gif_directly.coverage" NAME="cut_gif_directly 覆盖结果" MODIFIED="1747041476042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CaptureVedioPics$vedio_speed_interval.coverage" NAME="vedio_speed_interval 覆盖结果" MODIFIED="1748879962915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CaptureVedioPics$capture_frame_and_time.coverage" NAME="capture_frame_and_time 覆盖结果" MODIFIED="1744262261130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CaptureVedioPics$capture_interval_vedio.coverage" NAME="capture_interval_vedio 覆盖结果" MODIFIED="1747986796794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CaptureVedioPics$capture_interval_vedio.coverage" NAME="capture_interval_vedio 覆盖结果" MODIFIED="1748879914496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CaptureVedioPics$P03_capture_gif_and_times.coverage" NAME="P03_capture_gif_and_times 覆盖结果" MODIFIED="1744461326357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CaptureVedioPics$P01_capture_frame_and_time.coverage" NAME="P01_capture_frame_and_time 覆盖结果" MODIFIED="1748878976069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CaptureVedioPics$capture_interval_gif.coverage" NAME="capture_interval_gif 覆盖结果" MODIFIED="1747035476003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CaptureVedioPics$mov2mp4.coverage" NAME="mov2mp4 覆盖结果" MODIFIED="1747057946944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
