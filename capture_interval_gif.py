@@ -76,10 +76,10 @@ def clip_to_gif(input_path: str,
 
 if __name__ == "__main__":
     # ===== 用户请在这里修改 =====
-    input_path  = r"C:\Users\xijia\Desktop\DoingPlatform\D20250428_教创赛省赛决赛答辩\素材\封面电影\a02.mp4"
-    output_path = r"C:\Users\xijia\Desktop\DoingPlatform\D20250428_教创赛省赛决赛答辩\素材\封面电影\a1.gif"
+    input_path  = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250526_AI赋能在线教学创新成果大赛\A02申报书\视频解说素材\三体电视剧副本\20250608_172347_1_cropped.mp4"
+    output_path = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250526_AI赋能在线教学创新成果大赛\A02申报书\视频解说素材\三体电视剧副本\20250608_172347_1_cropped.gif"
     start_time  = "00:00"   # 开始时间，MM:SS 或 HH:MM:SS
-    end_time    = "00:05"   # 结束时间
+    end_time    = "00:19"   # 结束时间
     width       = 800       # 输出 GIF 宽度(px)
     fps         = 15        # 帧率
     # =========================
