@@ -76,10 +76,10 @@ def extract_subclip(input_path: str,
 if __name__ == "__main__":
     ensure_ffmpeg()
     # —— 用户请在此处修改参数 —— #
-    input_path  = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250526_AI赋能在线教学创新成果大赛\A02申报书\视频解说素材\三体电视剧副本\20250608_172527.mp4"
-    output_path = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250526_AI赋能在线教学创新成果大赛\A02申报书\视频解说素材\三体电视剧副本\20250608_172527_1.mp4"
-    start_time  = "00:01"   # 截取起始点
-    end_time    = "00:06"   # 截取结束点
+    input_path  = r"C:\Users\xijia\Desktop\视频切割\视频原始.mp4"
+    output_path = r"C:\Users\xijia\Desktop\视频切割\视频原始6.mp4"
+    start_time  = "04:04"   # 截取起始点
+    end_time    = "04:25"   # 截取结束点
     # —————————————————————————— #
 
     extract_subclip(input_path, output_path, start_time, end_time)
