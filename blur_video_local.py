@@ -109,9 +109,20 @@ def blur_video_multi_region(input_path, output_path, blur_tasks, debug=False):
 
 
 if __name__ == "__main__":
-    input_video = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250526_AI赋能在线教学创新成果大赛\A02申报书\视频解说素材\三体电视剧副本\20250608_172527_1_cropped.mp4"
-    output_video = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250526_AI赋能在线教学创新成果大赛\A02申报书\视频解说素材\三体电视剧副本\20250608_172527_1_cropped_blur.mp4"
+    input_video = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250627_关于开展第七届全国高校混合式教学设计创新大赛广州医科大学校内初赛的通知0710\A02材料\剪辑GIF\bk-4.mp4"
+    output_video = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250627_关于开展第七届全国高校混合式教学设计创新大赛广州医科大学校内初赛的通知0710\A02材料\剪辑GIF\bkb-4.mp4"
+    blur_tasks = [
+        {
+            "region": (1000, 270, 1130, 300),
+            "start_time": -1.0,
+            "end_time": 10.0,
+            "fade_duration": 0.5,
+            "ksize_max": 41,
+            "fade_margin": 60
+        },
+    ]
 
+    """
     blur_tasks = [
         {
             "region": (1150, 600, 1400, 650),
@@ -130,6 +141,7 @@ if __name__ == "__main__":
             "fade_margin": 60
         },
     ]
+    """
 
     # 启用调试：显示红框与打印输出
     blur_video_multi_region(input_video, output_video, blur_tasks, debug=False)
