@@ -76,10 +76,10 @@ def clip_to_gif(input_path: str,
 
 if __name__ == "__main__":
     # ===== 用户请在这里修改 =====
-    input_path  = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250627_关于开展第七届全国高校混合式教学设计创新大赛广州医科大学校内初赛的通知0710\A02材料\剪辑GIF\bkb-2.mp4"
-    output_path = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250627_关于开展第七届全国高校混合式教学设计创新大赛广州医科大学校内初赛的通知0710\A02材料\剪辑GIF\bk-2.gif"
-    start_time  = "00:00"   # 开始时间，MM:SS 或 HH:MM:SS
-    end_time    = "00:09"   # 结束时间
+    input_path  = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250616_泛雅杯复赛0718\PPT\20250602_233010_speed.mp4"
+    output_path = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250616_泛雅杯复赛0718\PPT\20250602_233010_speed2.gif"
+    start_time  = "00:08"   # 开始时间，MM:SS 或 HH:MM:SS
+    end_time    = "00:19"   # 结束时间
     width       = 800       # 输出 GIF 宽度(px)
     fps         = 15        # 帧率
     # =========================

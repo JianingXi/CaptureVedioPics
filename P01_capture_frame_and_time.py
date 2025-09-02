@@ -3,9 +3,9 @@ import os
 from datetime import timedelta
 
 # === 配置 ===
-video_path = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20_教改论文\D20250526_AI赋能在线教学创新成果大赛\A03作证材料\视频相关\20250602_233010.mp4"      # 替换为你的视频路径
+video_path = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250716_2025年全国高质量医学教师教学发展在线课程0729\A04视频剪辑\CKGG4298_local2.MP4"      # 替换为你的视频路径
 output_dir = "./output"               # 输出目录
-interval_seconds = 5                  # 截图间隔，单位：秒
+interval_seconds = 0.2                  # 截图间隔，单位：秒
 
 
 
