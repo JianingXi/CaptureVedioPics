@@ -3,9 +3,9 @@ import os
 from datetime import timedelta
 
 # === 配置 ===
-video_path = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250716_2025年全国高质量医学教师教学发展在线课程0729\A04视频剪辑\CKGG4298_local2.MP4"      # 替换为你的视频路径
+video_path = r"C:\Users\xijia\Desktop\新建文件\20250913_193401.mp4"      # 替换为你的视频路径
 output_dir = "./output"               # 输出目录
-interval_seconds = 0.2                  # 截图间隔，单位：秒
+interval_seconds = 1                  # 截图间隔，单位：秒
 
 
 
@@ -48,7 +48,7 @@ while cap.isOpened():
 
     timestamp_seconds = frame_idx / fps
     timestamp = str(timedelta(seconds=int(timestamp_seconds)))
-    image_filename = f"screenshot_{screenshot_idx:03d}.jpg"
+    image_filename = f"screenshot_{screenshot_idx:05d}.jpg"
     image_path = os.path.join(output_dir, image_filename)
 
     # 保存图片帧
