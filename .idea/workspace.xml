@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d46ca179-c407-493d-8a09-03e632f75d2e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/combine_mp4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P01_capture_frame_and_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/P01_capture_frame_and_time.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/capture_interval_vedio.py" beforeDir="false" afterPath="$PROJECT_DIR$/capture_interval_vedio.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,6 +162,7 @@
       <workItem from="1757771455352" duration="1362000" />
       <workItem from="1757920964068" duration="179000" />
       <workItem from="1757922613298" duration="2000" />
+      <workItem from="1760978607418" duration="1348000" />
     </task>
     <servers />
   </component>
