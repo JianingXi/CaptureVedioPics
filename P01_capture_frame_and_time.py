@@ -3,9 +3,9 @@ import os
 from datetime import timedelta
 
 # === 配置 ===
-video_path = r"C:\Users\xijia\Desktop\新建文件\20250913_193401.mp4"      # 替换为你的视频路径
+video_path = r"C:\Users\xijia\Desktop\ddd\20251107_141116.mp4"      # 替换为你的视频路径
 output_dir = "./output"               # 输出目录
-interval_seconds = 1                  # 截图间隔，单位：秒
+interval_seconds = 20                  # 截图间隔，单位：秒
 
 
 

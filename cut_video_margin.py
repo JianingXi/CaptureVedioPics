@@ -43,6 +43,7 @@ def crop_video_by_ratio(input_path, top_ratio=0.1, bottom_ratio=0.1, left_ratio=
 
 
 
-input_video = r"C:\MyDocument\ToDoList\D20_DoingPlatform\D20250526_AI赋能在线教学创新成果大赛\A02申报书\视频解说素材\三体电视剧副本\20250608_172527_1.mp4"
+input_video = r"C:\Users\xijia\Desktop\MRI_Frourier\核磁共振成像MRI2分层生长.mp4"
 cut_ratio = 0.15
-crop_video_by_ratio(input_video, top_ratio=cut_ratio, bottom_ratio=cut_ratio, left_ratio=cut_ratio, right_ratio=cut_ratio)
+# crop_video_by_ratio(input_video, top_ratio=cut_ratio, bottom_ratio=cut_ratio, left_ratio=cut_ratio, right_ratio=cut_ratio)
+crop_video_by_ratio(input_video, top_ratio=0, bottom_ratio=0.17, left_ratio=0.30, right_ratio=0.18)
