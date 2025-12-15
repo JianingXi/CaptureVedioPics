@@ -9,13 +9,13 @@ INPUT_VIDEO = r"C:\Users\xijia\Desktop\新建文件夹\abc_cropped.mp4"
 OUTPUT_VIDEO = r"C:\Users\xijia\Desktop\新建文件夹\abc_enhanced.mp4"
 
 # --- 基础 ---
-BRIGHTNESS = 5         # 亮度 [-50, 50]
+BRIGHTNESS = 2         # 亮度 [-50, 50]
 CONTRAST = 1.3         # 对比度 [0.8, 1.5]
 SATURATION = 1.2       # 饱和度 [0.8, 1.4]
 WARMTH = 2             # 色温 [-20, 20] 正数偏暖
 
 # --- 观感 ---
-GAMMA = 1.05           # gamma >1 提亮暗部
+GAMMA = 1.2           # gamma >1 提亮暗部
 SHARPEN = 0.05          # 锐化强度 [0~1]
 DENOISE = 1            # 去噪强度 [0~10]
 
