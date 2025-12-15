@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d46ca179-c407-493d-8a09-03e632f75d2e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mp4_brightness_contrast.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mp4_shrink.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/capture_interval_gif.py" beforeDir="false" afterPath="$PROJECT_DIR$/capture_interval_gif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cut_video_margin.py" beforeDir="false" afterPath="$PROJECT_DIR$/cut_video_margin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc_enhancedTEMP_MPY_wvf_snd.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mp4_brightness_contrast.py" beforeDir="false" afterPath="$PROJECT_DIR$/mp4_brightness_contrast.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +190,8 @@
       <workItem from="1763485765028" duration="3000" />
       <workItem from="1765615263012" duration="2457000" />
       <workItem from="1765632604299" duration="616000" />
-      <workItem from="1765633346125" duration="953000" />
+      <workItem from="1765633346125" duration="1313000" />
+      <workItem from="1765635423374" duration="6000" />
     </task>
     <servers />
   </component>
@@ -213,7 +212,7 @@
     <SUITE FILE_PATH="coverage/CaptureVedioPics$capture_frame_and_time.coverage" NAME="capture_frame_and_time 覆盖结果" MODIFIED="1744262261130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CaptureVedioPics$blur_video_local.coverage" NAME="blur_video_local 覆盖结果" MODIFIED="1752034568426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CaptureVedioPics$mp4_shrink.coverage" NAME="mp4_shrink 覆盖结果" MODIFIED="1765616950084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CaptureVedioPics$mp4_brightness_contrast.coverage" NAME="mp4_brightness_contrast 覆盖结果" MODIFIED="1765634197670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CaptureVedioPics$mp4_brightness_contrast.coverage" NAME="mp4_brightness_contrast 覆盖结果" MODIFIED="1765634604545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CaptureVedioPics$StarScreen.coverage" NAME="StarScreen 覆盖结果" MODIFIED="1749317269803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CaptureVedioPics$capture_interval_gif.coverage" NAME="capture_interval_gif 覆盖结果" MODIFIED="1765633533651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
